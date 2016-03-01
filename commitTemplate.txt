@@ -1,0 +1,7 @@
+LetvWallpaperOnline: Do not change home page onConfigChanged
+
+Do not change home page onConfigChanged
+
+Ticket: LEUI-12737
+
+Signed-off-by: zhaohongtao <zhaohongtao@letv.com>
